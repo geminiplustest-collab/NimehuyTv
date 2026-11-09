@@ -1,0 +1,16 @@
+{
+  "name": "nimehuy-tv-jiyyad-tools",
+  "version": "1.1.0",
+  "description": "NimehuyTV — anime streaming by JIYYAD TOOLS (AnimeKai)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "author": "JIYYAD TOOLS"
+}
